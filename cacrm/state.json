@@ -1,0 +1,14 @@
+{
+  "cookies": [],
+  "origins": [
+    {
+      "origin": "https://cacrm.weybee.in",
+      "localStorage": [
+        {
+          "name": "kt_theme_mode_value",
+          "value": "light"
+        }
+      ]
+    }
+  ]
+}

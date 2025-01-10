@@ -1,0 +1,29 @@
+{
+  "cookies": [
+    {
+      "name": "auth-token",
+      "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoiaGFyc2hyYXZhbEB3ZXliZWUuaW4iLCJuYW1laWQiOiI3ZDFkZTE1My02OWU1LTQ3NDYtOTM4Yi1jMDhkOTI4MTk2MzUiLCJqdGkiOiIyZTU5ZDRkOC0wYjdhLTQ4NzMtYjNmNC04ZWVlMWVjYzg5NTQiLCJyb2xlIjoiQWRtaW4iLCJuYmYiOjE3MzQ5MzI0NjQsImV4cCI6MTczNTAxODg2NCwiaWF0IjoxNzM0OTMyNDY0LCJpc3MiOiJodHRwOi8vbG9jYWxob3N0OnNzbFBvcnQiLCJhdWQiOiJodHRwOi8vbG9jYWxob3N0OnNzbFBvcnQifQ.RF7Tg9PcnrH2EATUUImHOZ_OLxHp0HHBbfKlmN_YI5Q",
+      "domain": "cacrm.weybee.in",
+      "path": "/",
+      "expires": 1735015264,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://cacrm.weybee.in",
+      "localStorage": [
+        {
+          "name": "kt-auth-react-v",
+          "value": "{\"Id\":\"7d1de153-69e5-4746-938b-c08d92819635\",\"FirstName\":\"Harsh\",\"LastName\":\"Raval\",\"Email\":\"harshraval@weybee.in\",\"Token\":\"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoiaGFyc2hyYXZhbEB3ZXliZWUuaW4iLCJuYW1laWQiOiI3ZDFkZTE1My02OWU1LTQ3NDYtOTM4Yi1jMDhkOTI4MTk2MzUiLCJqdGkiOiIyZTU5ZDRkOC0wYjdhLTQ4NzMtYjNmNC04ZWVlMWVjYzg5NTQiLCJyb2xlIjoiQWRtaW4iLCJuYmYiOjE3MzQ5MzI0NjQsImV4cCI6MTczNTAxODg2NCwiaWF0IjoxNzM0OTMyNDY0LCJpc3MiOiJodHRwOi8vbG9jYWxob3N0OnNzbFBvcnQiLCJhdWQiOiJodHRwOi8vbG9jYWxob3N0OnNzbFBvcnQifQ.RF7Tg9PcnrH2EATUUImHOZ_OLxHp0HHBbfKlmN_YI5Q\",\"IsActive\":true,\"PhoneNumber\":\"8908080809\",\"RegistrationDate\":\"2024-09-20T00:00:00\",\"JoiningDate\":\"2024-09-25T00:00:00\",\"BankName\":\"HDFC BANK\",\"BranchName\":\"Rajkot\",\"AccountNumber\":\"123456789012\",\"AccountType\":\"current\",\"IFSCCode\":\"HBFC123123\",\"Roles\":[\"Admin\"],\"UserNumber\":38,\"CompanyId\":5,\"CompanyName\":\"XYZ CA\",\"Work\":[\"ROC\",\"GST\"],\"ReportingAuthorityId\":\"Harsh Raval\",\"ReportedId\":\"7d1de153-69e5-4746-938b-c08d92819635\",\"PaymentAccess\":true}"
+        },
+        {
+          "name": "kt_theme_mode_value",
+          "value": "null"
+        }
+      ]
+    }
+  ]
+}
